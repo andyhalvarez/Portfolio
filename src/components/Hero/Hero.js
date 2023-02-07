@@ -6,7 +6,6 @@ import {
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
-import { resolveHref } from "next/dist/next-server/lib/router/router";
 
 const Hero = (props) => (
   <Section row nopadding>

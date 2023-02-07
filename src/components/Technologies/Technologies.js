@@ -1,5 +1,6 @@
 import React from "react";
 import { DiFirebase, DiReact, DiZend } from "react-icons/di";
+import { AiOutlineTool } from "react-icons/ai";
 import {
   Section,
   SectionDivider,
@@ -46,7 +47,7 @@ const Technologies = () => (
       </ListItem>
 
       <ListItem>
-        <DiZend size="3rem" />
+        <AiOutlineTool size="3rem" />
         <ListContainer>
           <ListTitle>Tools</ListTitle>
           <ListParagraph>
