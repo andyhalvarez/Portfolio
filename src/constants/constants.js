@@ -10,12 +10,13 @@ export const projects = [
     id: 0,
   },
   {
-    title: "",
-    description: "",
-    image: "",
-    tags: ["", ""],
-    source: "",
-    visit: "",
+    title: "Restaurant Reservation System",
+    description:
+      "This is a Full stack reservation and table management system for a restaurant. It allows users to view, create, edit and cancel reservations. It also allows users to view, create, edit and delete tables. It also allows users to search for reservations by mobile number.",
+    image: "/images/restaurant1.png",
+    tags: ["React", "Node.js", "Express", "PostgreSQL", "Knex.js"],
+    source: "https://github.com/andyhalvarez/final-capstone-restaurant",
+    visit: "https://final-capstone-restaurant-efxn.vercel.app/dashboard",
     id: 1,
   },
   {
