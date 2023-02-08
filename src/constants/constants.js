@@ -23,7 +23,7 @@ export const projects = [
     title: "Tic Tac Toe",
     description:
       "Two player Tic Tac Toe game. The first player to get 3 in a row wins. The game ends in a tie if all squares are filled and no player has 3 in a row.",
-    image: "public/images/tictactoe.png",
+    image: "/images/tictactoe.png",
     tags: ["JavaScript", "React", "Bootstrap"],
     source: "https://github.com/andyhalvarez/tictactoe",
     visit: "https://tictactoe-pi-three.vercel.app/",
